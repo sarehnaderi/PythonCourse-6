@@ -94,7 +94,7 @@ while True:
                 check_draw()
                 break        
             else:
-                print("Try another cel")
+                print("Try another position!")
         else:
             print("Erroe! Enter a number from 0,1,2.")
     
@@ -111,6 +111,6 @@ while True:
                 check_draw()
                 break    
             else:
-                print("Try another cel")
+                print("Try another position!")
         else:
             print("Erroe! Enter a number from 0,1,2.")
